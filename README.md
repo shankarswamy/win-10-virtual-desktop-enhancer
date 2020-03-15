@@ -1,5 +1,12 @@
 # Windows 10 Virtual Desktop Enhancer
 
+This is a simple app that also is very useful to me.  Recently Microsoft pushed some update that broke SOME functionalities - exactly the ones I have been used to! So I spent about an hour debugging the app and fixed it.
+
+The original author has archived it - see his note below.
+
+If you find it useful, great!
+
+===================================================================================================================================
 **Warning:** I am officially no longer maintaining this project due to lack of time and interest. Thanks for using it and for all of your work towards helping me improve it. -sdias
 
 ## Introduction
