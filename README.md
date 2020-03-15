@@ -6,7 +6,7 @@ The original author has archived it - see his note below.
 
 If you find it useful, great!
 
-===================================================================================================================================
+====================================================================
 **Warning:** I am officially no longer maintaining this project due to lack of time and interest. Thanks for using it and for all of your work towards helping me improve it. -sdias
 
 ## Introduction
